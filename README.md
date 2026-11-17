@@ -116,15 +116,16 @@ button:hover {
 
     <div class="heart">💗</div>
 
-    <h1>Hey Sithmi! 🌸</h1>
+    <h1>Hey Sithuu (chooty🌍💎)! 🌸</h1>
 
     <p>
-        There's something I've been wanting to tell you...
-        You make ordinary moments feel special,
-        and I really enjoy having you in my life.
+
+        I’ve never been one for half-measures, and I’m not about to start now. We’ve shared enough moments, laughs, and quiet understanding for me to know that what we have isn't something you just walk away from without giving it everything.
+​So, here I am—putting my pride aside and laying my heart on the line one last time. I want us to be real, to build something genuine together, and to see where this could actually go if we both stop holding back.
+​I’m asking you, for the very last time
     </p>
 
-    <h2>Would you like to go out with me? 💍</h2>
+    <h2>Would you like to be with me? 💍</h2>
 
     <p>I'd love to create some beautiful memories together. ✨</p>
 
@@ -151,8 +152,8 @@ function sayYes() {
     const message = document.getElementById("message");
 
     message.innerHTML =
-        "YAY! 🥹💗 Thank you, Sithmi! " +
-        "I'm really happy. Let's make some beautiful memories together! 🌸✨";
+        "YAY! 🥹💗 Thank you,draling 🌍💎💕💕💕 Sithmi! " +
+        "I'm really happy. Let's make some beautiful memories together!,i promis i won't leave u🌸✨";
 
     message.style.display = "block";
 
@@ -196,4 +197,4 @@ function createHearts() {
 
 </body>
 </html>
-# Shakeel-sithmi
+# Shakeel 💝& sithmi💍🧚
